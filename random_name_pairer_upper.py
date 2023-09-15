@@ -10,4 +10,3 @@ names = ['JP', 'Admas', 'Embelle', 'Dilu', 'Andy',  'Denika', 'Abubukar', 'Jenni
 
 name_choice = random.sample(names, 2)
 print(f"{name_choice[0]} => {name_choice[1]}")
-
