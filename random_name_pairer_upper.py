@@ -6,7 +6,7 @@ The names must be hardcoded into the 'names' list
 
 import random
 
-names = ['JP', 'Admas', 'Embelle', 'Dilu', 'Andy',  'Denika', 'Abubukar', 'Jennifer', 'Victoria', 'Maryanna']
+names = ['JP', 'Admas', 'Embelle', 'Dilu', 'Andy', 'Denika', 'Abubakar', 'Jeniffer', 'Victoriya', 'Maryana']
 
 name_choice = random.sample(names, 2)
 print(f"{name_choice[0]} => {name_choice[1]}")
